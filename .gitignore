@@ -1,0 +1,10 @@
+# Secrets
+.env
+
+# Runtime data: real budgets, credentials, and backups. Never commit these.
+actual-data/
+bridge-cache/
+bridge-backups/
+data/
+
+node_modules/

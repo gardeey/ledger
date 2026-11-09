@@ -1,0 +1,10 @@
+{
+  "name": "ledger-bridge",
+  "private": true,
+  "type": "module",
+  "scripts": { "start": "node src/server.js" },
+  "dependencies": {
+    "@actual-app/api": "26.9.0",
+    "fastify": "^5.0.0"
+  }
+}
